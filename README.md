@@ -40,9 +40,13 @@ Once the user selects their item, the terminal will ask how much they would like
 <img width="552" alt="screen shot 2018-08-07 at 10 34 09 pm" src="https://user-images.githubusercontent.com/35550279/43813061-154eba98-9a92-11e8-8e82-13ccae0605f2.png">
 
 Once the user inputs the quantity, their products table will update 
+
 (Before) 
+
 <img width="446" alt="screen shot 2018-08-07 at 10 35 22 pm" src="https://user-images.githubusercontent.com/35550279/43813116-44e15bf8-9a92-11e8-9f19-611c50df4f23.png">
+
 (After) 
+
 <img width="446" alt="screen shot 2018-08-07 at 10 35 31 pm" src="https://user-images.githubusercontent.com/35550279/43813127-51060802-9a92-11e8-97ab-4d13a6928d12.png">
 
 If the manager chooses the "Add New Product" option, the terminal will ask the manager to enter in the id#, name, price, deparmtent and inventory quantity of the new product and update the products table automatically.
